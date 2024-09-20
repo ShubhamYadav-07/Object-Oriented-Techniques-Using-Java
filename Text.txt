@@ -15,3 +15,9 @@ Q2 => Define a class with name time & data members as hours,minutes,secs
         2. Constructor to initialize 2nd time parameterized constructor.
         3. Add time to add both the times.
         4.Display to display resultant time.
+Q3 => 1.Wap using inheritance . Define a class with the name Student with data members
+        rollno,name,marks of 3 subject.Member method is void enterdetails() to input 
+        rollno,name,marks in 3 subject.
+      2.From this class Student derive a class newstudent with data members total&avg
+        member method is void calculate() to calculate total & avg
+        and void display() to display all data members.
