@@ -9,6 +9,7 @@ Q1 => WAP in java using classes & objects.Define a class with the name worker.
         1.void input() to enter wid,wname,hourswork,wgrade,totalwages
         & call calculate() to calculate total wages
         2. void display() to display all data members.
+Q1 => Done.
 Q2 => Define a class with name time & data members as hours,minutes,secs
     public data members
         1. Constructor to initialize first time using default constructor.
