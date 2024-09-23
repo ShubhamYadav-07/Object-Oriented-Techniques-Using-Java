@@ -22,3 +22,11 @@ Q3 => 1.Wap using inheritance . Define a class with the name Student with data m
       2.From this class Student derive a class newstudent with data members total&avg
         member method is void calculate() to calculate total & avg
         and void display() to display all data members.
+
+Q4~WAP to insert an element in 1-D array at a specific position.[1,2,3,4]=>[1,2,3,4,5]
+Q5~WAP to delete an element from the array.[1,2,3,4]=>[1,2,3]
+Q6~WAP using method overloading to find
+    a) Volume of cube
+    b)Volume of cuboid
+    c)Volume of sphere
+Q7~WAP to find the sum of 2 float numbers,2 integers, 2 long type numbers.
