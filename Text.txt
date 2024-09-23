@@ -30,3 +30,10 @@ Q6~WAP using method overloading to find
     b)Volume of cuboid
     c)Volume of sphere
 Q7~WAP to find the sum of 2 float numbers,2 integers, 2 long type numbers.
+Q8~WAP in Java to enter 2 matrices and find their sum and difference 
+A[5 2 3]+B[5 2 11]=C[10 4 14]
+ [1 2 3]  [4 5 6]=  [5 7 9]
+Q9~WAP to find the sum of all element other than diagonal.
+Q10~WAP to print the lower triangle of the matrix.
+Q11~WAP to find product of upper triangle of matrix.
+Q12~WAP to find the sum of each row of the matrix.
