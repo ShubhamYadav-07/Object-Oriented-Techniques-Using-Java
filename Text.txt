@@ -37,3 +37,7 @@ Q9~WAP to find the sum of all element other than diagonal.
 Q10~WAP to print the lower triangle of the matrix.
 Q11~WAP to find product of upper triangle of matrix.
 Q12~WAP to find the sum of each row of the matrix.
+Q13~WAP to enter a string & check it is palindrome or not. Example: MOM,DAD,MALAYALAM.
+Q14~WAP to enter two string & find the string with greater length.
+Q15~WAP to enter a string & replace every space in string with hyphen.Example: My country is India=> My-country-is-India.
+Q16~WAP to enter a string & count no. of vowels,consonants and other characters.
