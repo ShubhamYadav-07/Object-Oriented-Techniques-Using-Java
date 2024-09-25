@@ -18,5 +18,6 @@ public class GreaterString {
         } else {
             System.out.println("Both strings have equal length");
         }
+        sc.close();
     }
 }

@@ -11,5 +11,6 @@ public class replaceword {
         String str = sc.nextLine();
         String str1 = str.replace(" ", "-");
         System.out.println("String after replacing space with hyphen: " + str1);
+        sc.close();
     }
 }
