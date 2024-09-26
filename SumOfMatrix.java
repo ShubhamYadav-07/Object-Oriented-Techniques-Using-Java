@@ -31,24 +31,15 @@ public class SumOfMatrix {
             System.out.println("Matrices are not of same size");
         } else {
             int sum[][] = new int[rows1][cols1];
-            int diff[][] = new int[rows1][cols1];
             for (int i = 0; i < rows1; i++) {
                 for (int j = 0; j < cols1; j++) {
                     sum[i][j] = arr1[i][j] + arr2[i][j];
-                    diff[i][j] = arr1[i][j] - arr2[i][j];
                 }
             }
             System.out.println("Sum of array is: ");
             for (int i = 0; i < rows1; i++) {
                 for (int j = 0; j < cols1; j++) {
                     System.out.print(sum[i][j] + " ");
-                }
-                System.out.println();
-            }
-            System.out.println("\nDifference of array is: ");
-            for (int i = 0; i < rows1; i++) {
-                for (int j = 0; j < cols1; j++) {
-                    System.out.print(diff[i][j] + " ");
                 }
                 System.out.println();
             }
